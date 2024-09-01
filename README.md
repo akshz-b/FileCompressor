@@ -2,14 +2,6 @@
 
 FileCompressor is a simple project that demonstrates file compression and decompression using Huffman coding. It includes encoding and decoding functionalities, implemented in C++.
 
-## Project Structure
-
-- `encode.cpp`: Contains the code to compress (encode) the input file using Huffman coding.
-- `decode.cpp`: Contains the code to decompress (decode) the encoded file.
-- `huffman.cpp`: Implements the Huffman coding algorithm.
-- `huffman.hpp`: Header file containing the declarations of the functions and classes used in `huffman.cpp`.
-- `inputFile.txt`: A sample input file to be compressed.
-
 ## How to Run
 
 ### Prerequisites
